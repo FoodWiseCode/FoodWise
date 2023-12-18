@@ -1,5 +1,6 @@
 # FoodWise
-<h1 align="center">Hi there 👋</h1>
+<h1 align="l">Hi there 👋</h1>
+## Hi there 👋
 Team ID: CH2-PS537 Hi everyone! We are from CH2-PS537. We consist of 6 people and this is my team members:
 
 | Bangkit ID    | Name                        | Learning Path        | University                                     | Let's Connect                    |
