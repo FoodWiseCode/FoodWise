@@ -24,5 +24,13 @@ Food Accessibility, Agribusiness, and Food Security
 <h2> About Foodwise </h2> 
 <h3> Executive Summary/Abstract: </h3>
 <p align="justify"> There are many significant issues related to food waste and its negative impact on the environment. Decomposing food waste produces greenhouse gases such as methane, which contributes to global warming. Apart from that, food waste can also pollute ground water and surface water, thereby threatening natural ecosystems. The accumulation of food waste can cause public health problems, including increasing pest populations such as rodents and insects, which can spread disease and infection. </p> </br>
-
 <p align="justify"> FoodWise is a cutting-edge app scanning solution designed to address the growing global food waste problem. With increasing concern for environmental sustainability and resource conservation, reducing food waste has become a top priority for individuals, households and businesses. In this app, we offer an innovative and user-friendly platform to help users minimize food waste and make more informed decisions regarding food consumption. FoodWise's main goal is to empower users to manage their food inventory efficiently and turn excess ingredients into delicious food or something valuable. </p>
+
+<h2> Repositories </h2>
+<ul> 
+  <li> <a href="https://github.com/FoodWiseCode/CC"> Cloud Computing Backend Repository </a></li>
+  <li> <a href="https://github.com/FoodWiseCode/ML"> Machine Learning Repository</a></li>
+  <li> <a href="https://github.com/FoodWiseCode/MD-Models"> Android Application Repository </li>
+</ul>
+
+
